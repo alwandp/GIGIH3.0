@@ -4,7 +4,6 @@
 }
 
 :root {
-  --primary: #1bac4b;
   --blue: #033487;
   --dark: #272727;
   --grey: #626262;
@@ -13,14 +12,6 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-}
-
-nav {
-  padding: 8px 16px;
-}
-
-nav .brand h1 {
-  color: var(--primary);
 }
 
 main {
